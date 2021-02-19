@@ -15,5 +15,5 @@ The package is based on MQTTnet (https://github.com/chkr1011/MQTTnet).
 Caveats:
 - Use at your own risk (built for testing).
 - Only tested with Akamai MQTT Broker (https://developer.akamai.com/iot-edge-connect) and Mosquito by removing TLS.
-- There is no option for turning off TLS.
+- There is no option for turning off TLS from the component GUI.
 - The implementation will throw some warnings since the implementation is running async methods synchronously.
