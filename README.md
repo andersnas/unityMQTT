@@ -12,6 +12,9 @@ A base library for MQTT messaging in Unity defining these events:
 
 The package is based on MQTTnet (https://github.com/chkr1011/MQTTnet).
 
+A video showing an example implementation can be found here:
+https://youtu.be/tEaMaufbM2M
+
 Caveats:
 - Use at your own risk (built for testing).
 - Only tested with Akamai MQTT Broker (https://developer.akamai.com/iot-edge-connect) and Mosquito by removing TLS.
